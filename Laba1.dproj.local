@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.329,D:\BSUIR\Метрология\Laba1Form\MainUnit.pas=D:\BSUIR\СИАОД\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.622,=D:\BSUIR\СИАОД\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.330,D:\BSUIR\Метрология\Laba1Form\MainUnit.dfm=D:\BSUIR\СИАОД\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.931,=D:\BSUIR\Метрология\Laba1Form\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.118,D:\BSUIR\Метрология\Laba1Form\Code.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.032,D:\BSUIR\Метрология\Laba1Form\Code.pas=D:\BSUIR\Метрология\Laba1Form\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.140,D:\BSUIR\Метрология\Laba1Form\Laba1.dproj=D:\BSUIR\СИАОД\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.032,D:\BSUIR\Метрология\Laba1Form\Code.dfm=D:\BSUIR\Метрология\Laba1Form\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

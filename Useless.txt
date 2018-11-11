@@ -1,0 +1,7 @@
+return
+else
+var
+const
+console
+do
+class
